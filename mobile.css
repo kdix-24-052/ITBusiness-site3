@@ -12,7 +12,7 @@ body.no-scroll {
 }
 
 #HomeHeaderImg {
-    background-image: url(../img/mobile/header_background.png);
+    background-image: url(./img/mobile/header_background.png);
     width: 115dvw;
     height: 115svh;
     background-size: cover;
@@ -163,19 +163,19 @@ body.no-scroll {
 }
 
 .mobile_background_chatbot {
-    background-image: url(../img/mobile/menu_background1.png);
+    background-image: url(./img/mobile/menu_background1.png);
 }
 
 .mobile_background_manual {
-    background-image: url(../img/mobile/menu_background2.png);
+    background-image: url(./img/mobile/menu_background2.png);
 }
 
 .mobile_background_utilization {
-    background-image: url(../img/mobile/menu_background3.png);
+    background-image: url(./img/mobile/menu_background3.png);
 }
 
 .mobile_background_example {
-    background-image: url(../img/mobile/menu_background4.png);
+    background-image: url(./img/mobile/menu_background4.png);
 }
 
 .mobile_background_chatbot,
